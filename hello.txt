@@ -1,0 +1,2 @@
+Thanks for using my file server, it's the first one I've ever made.
+I mean c'mon, Node.js is the only real dev language!!!
